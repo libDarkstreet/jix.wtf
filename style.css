@@ -1,0 +1,13 @@
+.center{display:block;margin-left:auto;margin-right:auto}
+
+body{background-color:rgb(0, 0, 0)}
+
+*{color:rgb(255, 255, 255);font-family: sans-serif;}
+
+h1{text-align:center;margin-top:18px;letter-spacing:3px;font-size: 60px;}
+
+h3{text-align:center;margin-top:18px;letter-spacing:3px;text-decoration:none;font-size: 27px;}
+
+a{text-decoration:underline;text-decoration-color:rgb(231, 133, 4);}
+
+img{max-width: 100%;min-width: 190px;height: auto;}
